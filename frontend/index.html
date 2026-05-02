@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indoor Navigation - 4th Floor R&D Building</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <h1>🏢 Indoor Navigation System</h1>
+            <p class="subtitle">4th Floor, R&D Building</p>
+        </header>
+
+        <!-- Control Panel -->
+        <div class="control-panel">
+            <div class="control-group">
+                <label for="destination-select">Navigate to:</label>
+                <select id="destination-select">
+                    <option value="">-- Select Destination --</option>
+                </select>
+                <button id="navigate-btn" class="btn btn-primary" disabled>Navigate</button>
+                <button id="cancel-btn" class="btn btn-secondary" style="display:none;">Cancel</button>
+            </div>
+            <div class="status-bar">
+                <span id="status-text">Ready. Select a destination to begin.</span>
+                <span id="distance-badge" class="badge" style="display:none;"></span>
+            </div>
+        </div>
+
+        <!-- Main Content: Map + Directions -->
+        <div class="main-content">
+            <!-- Floor Map -->
+            <div class="map-container">
+                <canvas id="floor-map" width="900" height="600"></canvas>
+                <div class="map-legend">
+                    <span class="legend-item"><span class="dot blue"></span> Your Position</span>
+                    <span class="legend-item"><span class="dot red"></span> Destination</span>
+                    <span class="legend-item"><span class="line green"></span> Path</span>
+                </div>
+            </div>
+
+            <!-- Directions Panel -->
+            <div class="directions-panel" id="directions-panel" style="display:none;">
+                <h3>📍 Turn-by-Turn Directions</h3>
+                <div id="directions-list"></div>
+                <div class="directions-footer">
+                    <span id="total-distance"></span>
+                    <span id="eta"></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Position Info -->
+        <div class="position-info" id="position-info">
+            <div class="info-card">
+                <strong>Position</strong>
+                <span id="pos-display">Waiting for location...</span>
+            </div>
+            <div class="info-card">
+                <strong>Confidence</strong>
+                <span id="confidence-display">--</span>
+            </div>
+            <div class="info-card">
+                <strong>Nearest Node</strong>
+                <span id="node-display">--</span>
+            </div>
+        </div>
+
+        <!-- WiFi Simulation Panel (for demo/testing) -->
+        <div class="demo-panel">
+            <h4>📡 Demo Controls (Simulate Position)</h4>
+            <div class="demo-controls">
+                <label>X: <input type="number" id="sim-x" value="25" step="1" min="0" max="50"></label>
+                <label>Y: <input type="number" id="sim-y" value="2" step="1" min="0" max="35"></label>
+                <button id="sim-locate-btn" class="btn btn-small">Set Position</button>
+                <button id="sim-walk-btn" class="btn btn-small">Simulate Walk</button>
+            </div>
+            <div class="demo-presets">
+                <strong>Quick Positions:</strong>
+                <button class="preset-btn" data-x="25" data-y="2">Elevator</button>
+                <button class="preset-btn" data-x="25" data-y="8">Lobby</button>
+                <button class="preset-btn" data-x="5" data-y="8">West Junction</button>
+                <button class="preset-btn" data-x="45" data-y="8">East Junction</button>
+                <button class="preset-btn" data-x="40" data-y="25">Near B-412</button>
+                <button class="preset-btn" data-x="25" data-y="30">South Hall</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/map.js"></script>
+    <script src="js/navigation.js"></script>
+    <script src="js/localization.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
