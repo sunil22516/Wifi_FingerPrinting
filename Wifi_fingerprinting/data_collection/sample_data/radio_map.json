@@ -1,0 +1,2849 @@
+{
+  "metadata": {
+    "floor": "4th Floor, R&D Building, IIIT Delhi",
+    "wing": "A + B Wing",
+    "coordinate_system": "meters from top-left corner of floor plan",
+    "building_width_m": 120.0,
+    "building_depth_m": 25.0,
+    "note": "Built from real fingerprints collected on 2026-04-09",
+    "num_locations": 35
+  },
+  "fingerprints": [
+    {
+      "x": 10.0,
+      "y": 13.0,
+      "label": "Design Studio",
+      "location_id": "design_studio",
+      "wifi_readings": {
+        "72:7f:f0:12:cf:83": {
+          "rssi": -57,
+          "num_samples": 9
+        },
+        "30:8b:b2:61:de:0f": {
+          "rssi": -54,
+          "num_samples": 17
+        },
+        "30:8b:b2:61:de:0a": {
+          "rssi": -55,
+          "num_samples": 28
+        },
+        "30:8b:b2:61:de:0b": {
+          "rssi": -54,
+          "num_samples": 22
+        },
+        "30:8b:b2:61:de:0e": {
+          "rssi": -55,
+          "num_samples": 21
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -45,
+          "num_samples": 42
+        },
+        "72:7f:f0:12:cf:80": {
+          "rssi": -58,
+          "num_samples": 11
+        },
+        "f8:0b:cb:f3:88:00": {
+          "rssi": -51,
+          "num_samples": 16
+        },
+        "6c:31:0e:56:e1:2b": {
+          "rssi": -55,
+          "num_samples": 17
+        },
+        "6c:31:0e:56:e1:2a": {
+          "rssi": -55,
+          "num_samples": 13
+        },
+        "6c:31:0e:56:e1:2d": {
+          "rssi": -54,
+          "num_samples": 8
+        },
+        "6c:31:0e:56:e1:21": {
+          "rssi": -46,
+          "num_samples": 16
+        },
+        "6c:31:0e:56:e1:20": {
+          "rssi": -46,
+          "num_samples": 21
+        },
+        "f8:0b:cb:f3:88:04": {
+          "rssi": -50,
+          "num_samples": 6
+        },
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -52,
+          "num_samples": 11
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -56,
+          "num_samples": 10
+        },
+        "6c:31:0e:56:e1:22": {
+          "rssi": -45,
+          "num_samples": 15
+        },
+        "6c:31:0e:56:e1:23": {
+          "rssi": -47,
+          "num_samples": 15
+        },
+        "6c:31:0e:56:e1:24": {
+          "rssi": -48,
+          "num_samples": 14
+        },
+        "f8:0b:cb:f3:88:01": {
+          "rssi": -49,
+          "num_samples": 10
+        },
+        "40:01:7a:53:96:80": {
+          "rssi": -56,
+          "num_samples": 6
+        },
+        "30:8b:b2:61:de:0c": {
+          "rssi": -52,
+          "num_samples": 8
+        },
+        "72:7f:f0:12:cf:84": {
+          "rssi": -56,
+          "num_samples": 9
+        },
+        "40:01:7a:53:96:81": {
+          "rssi": -56,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:84": {
+          "rssi": -57,
+          "num_samples": 6
+        },
+        "40:01:7a:53:96:83": {
+          "rssi": -56,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:82": {
+          "rssi": -57,
+          "num_samples": 4
+        },
+        "30:8b:b2:61:de:0d": {
+          "rssi": -54,
+          "num_samples": 5
+        },
+        "6c:31:0e:56:e1:2f": {
+          "rssi": -55,
+          "num_samples": 9
+        },
+        "6c:31:0e:56:e1:2e": {
+          "rssi": -56,
+          "num_samples": 4
+        },
+        "6c:31:0e:56:e1:2c": {
+          "rssi": -56,
+          "num_samples": 7
+        },
+        "00:df:1d:6a:9c:2a": {
+          "rssi": -51,
+          "num_samples": 7
+        },
+        "00:df:1d:6a:9c:2e": {
+          "rssi": -53,
+          "num_samples": 10
+        },
+        "00:df:1d:6a:9c:2d": {
+          "rssi": -54,
+          "num_samples": 12
+        },
+        "00:df:1d:6a:9c:2f": {
+          "rssi": -54,
+          "num_samples": 12
+        },
+        "00:df:1d:6a:9c:2c": {
+          "rssi": -53,
+          "num_samples": 10
+        },
+        "00:df:1d:6a:9c:2b": {
+          "rssi": -54,
+          "num_samples": 6
+        },
+        "f8:0b:cb:f3:88:02": {
+          "rssi": -51,
+          "num_samples": 9
+        },
+        "f8:0b:cb:f3:88:03": {
+          "rssi": -51,
+          "num_samples": 6
+        },
+        "00:df:1d:6a:9c:25": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "52:c5:51:61:99:b3": {
+          "rssi": -41,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 22.0,
+      "y": 13.0,
+      "label": "AID Lab",
+      "location_id": "aid_lab",
+      "wifi_readings": {
+        "6c:31:0e:56:e1:20": {
+          "rssi": -40,
+          "num_samples": 17
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -36,
+          "num_samples": 32
+        },
+        "40:01:7a:53:97:24": {
+          "rssi": -54,
+          "num_samples": 1
+        },
+        "40:01:7a:53:97:23": {
+          "rssi": -54,
+          "num_samples": 1
+        },
+        "40:01:7a:53:97:21": {
+          "rssi": -54,
+          "num_samples": 1
+        },
+        "6c:31:0e:56:e1:2f": {
+          "rssi": -43,
+          "num_samples": 8
+        },
+        "f8:0b:cb:f3:88:00": {
+          "rssi": -50,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:01": {
+          "rssi": -48,
+          "num_samples": 4
+        },
+        "6c:31:0e:56:e1:2b": {
+          "rssi": -43,
+          "num_samples": 14
+        },
+        "6c:31:0e:56:e1:24": {
+          "rssi": -31,
+          "num_samples": 16
+        },
+        "6c:31:0e:56:e1:22": {
+          "rssi": -35,
+          "num_samples": 17
+        },
+        "6c:31:0e:56:e1:21": {
+          "rssi": -37,
+          "num_samples": 19
+        },
+        "6c:31:0e:56:e1:23": {
+          "rssi": -33,
+          "num_samples": 15
+        },
+        "6c:31:0e:56:e1:2a": {
+          "rssi": -42,
+          "num_samples": 15
+        },
+        "6c:31:0e:56:e1:2d": {
+          "rssi": -38,
+          "num_samples": 11
+        },
+        "6c:31:0e:56:e1:2c": {
+          "rssi": -42,
+          "num_samples": 6
+        },
+        "6c:31:0e:56:e1:2e": {
+          "rssi": -41,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -44,
+          "num_samples": 2
+        },
+        "f8:0b:cb:f3:88:04": {
+          "rssi": -49,
+          "num_samples": 2
+        },
+        "2e:98:11:8b:1f:9e": {
+          "rssi": -51,
+          "num_samples": 3
+        },
+        "40:01:7a:53:96:8a": {
+          "rssi": -48,
+          "num_samples": 4
+        },
+        "40:01:7a:53:96:8c": {
+          "rssi": -46,
+          "num_samples": 3
+        },
+        "00:df:1d:62:f9:45": {
+          "rssi": -56,
+          "num_samples": 2
+        },
+        "00:df:1d:62:f9:44": {
+          "rssi": -56,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:8e": {
+          "rssi": -55,
+          "num_samples": 1
+        },
+        "40:01:7a:53:96:8d": {
+          "rssi": -55,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 30.0,
+      "y": 13.0,
+      "label": "CI Lab",
+      "location_id": "ci_lab",
+      "wifi_readings": {
+        "5c:60:ba:2c:29:05": {
+          "rssi": -49,
+          "num_samples": 6
+        },
+        "2e:98:11:8b:1f:9e": {
+          "rssi": -52,
+          "num_samples": 7
+        },
+        "6c:31:0e:56:e1:20": {
+          "rssi": -46,
+          "num_samples": 3
+        },
+        "6c:31:0e:56:e1:23": {
+          "rssi": -44,
+          "num_samples": 4
+        },
+        "6c:31:0e:56:e1:22": {
+          "rssi": -44,
+          "num_samples": 4
+        },
+        "40:01:7a:53:96:84": {
+          "rssi": -36,
+          "num_samples": 4
+        },
+        "f8:0b:cb:f3:88:03": {
+          "rssi": -40,
+          "num_samples": 2
+        },
+        "f8:0b:cb:f3:88:04": {
+          "rssi": -45,
+          "num_samples": 5
+        },
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -42,
+          "num_samples": 4
+        },
+        "40:01:7a:53:96:8d": {
+          "rssi": -45,
+          "num_samples": 28
+        },
+        "40:01:7a:53:96:80": {
+          "rssi": -37,
+          "num_samples": 9
+        },
+        "40:01:7a:53:96:8e": {
+          "rssi": -45,
+          "num_samples": 24
+        },
+        "40:01:7a:53:96:8c": {
+          "rssi": -44,
+          "num_samples": 15
+        },
+        "40:01:7a:53:96:8b": {
+          "rssi": -43,
+          "num_samples": 12
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -42,
+          "num_samples": 28
+        },
+        "40:01:7a:53:96:8a": {
+          "rssi": -46,
+          "num_samples": 5
+        },
+        "40:01:7a:53:96:8f": {
+          "rssi": -38,
+          "num_samples": 4
+        },
+        "6c:31:0e:56:e1:24": {
+          "rssi": -42,
+          "num_samples": 7
+        },
+        "6c:31:0e:56:e1:21": {
+          "rssi": -42,
+          "num_samples": 3
+        },
+        "f8:0b:cb:f3:88:01": {
+          "rssi": -45,
+          "num_samples": 5
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -35,
+          "num_samples": 2
+        },
+        "00:df:1d:62:f9:45": {
+          "rssi": -52,
+          "num_samples": 2
+        },
+        "00:df:1d:62:f9:44": {
+          "rssi": -52,
+          "num_samples": 2
+        },
+        "00:df:1d:62:f9:43": {
+          "rssi": -52,
+          "num_samples": 2
+        },
+        "00:df:1d:62:f9:42": {
+          "rssi": -52,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:81": {
+          "rssi": -35,
+          "num_samples": 3
+        },
+        "f8:0b:cb:f3:88:00": {
+          "rssi": -48,
+          "num_samples": 5
+        },
+        "6c:31:0e:56:e1:2d": {
+          "rssi": -50,
+          "num_samples": 2
+        },
+        "6c:31:0e:56:e1:2b": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "6c:31:0e:56:e1:2a": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "6c:31:0e:56:e1:2c": {
+          "rssi": -51,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 84.0,
+      "y": 13.0,
+      "label": "MIDAS Lab",
+      "location_id": "midas_lab",
+      "wifi_readings": {
+        "f8:0b:cb:f3:88:01": {
+          "rssi": -32,
+          "num_samples": 10
+        },
+        "40:01:7a:53:97:24": {
+          "rssi": -46,
+          "num_samples": 4
+        },
+        "40:01:7a:53:97:23": {
+          "rssi": -46,
+          "num_samples": 4
+        },
+        "40:01:7a:53:97:22": {
+          "rssi": -46,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:21": {
+          "rssi": -46,
+          "num_samples": 4
+        },
+        "f8:0b:cb:f3:88:00": {
+          "rssi": -33,
+          "num_samples": 15
+        },
+        "40:01:7a:53:96:80": {
+          "rssi": -48,
+          "num_samples": 3
+        },
+        "40:01:7a:53:96:8e": {
+          "rssi": -59,
+          "num_samples": 1
+        },
+        "40:01:7a:53:96:8d": {
+          "rssi": -59,
+          "num_samples": 1
+        },
+        "40:01:7a:53:96:8c": {
+          "rssi": -59,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:0e": {
+          "rssi": -45,
+          "num_samples": 9
+        },
+        "f8:0b:cb:f3:88:0a": {
+          "rssi": -46,
+          "num_samples": 12
+        },
+        "f8:0b:cb:f3:88:0b": {
+          "rssi": -44,
+          "num_samples": 13
+        },
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -24,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:04": {
+          "rssi": -27,
+          "num_samples": 1
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -44,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:0d": {
+          "rssi": -45,
+          "num_samples": 12
+        },
+        "f8:0b:cb:f3:88:0f": {
+          "rssi": -46,
+          "num_samples": 5
+        },
+        "f8:0b:cb:f3:88:0c": {
+          "rssi": -45,
+          "num_samples": 8
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -50,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:25": {
+          "rssi": -46,
+          "num_samples": 1
+        },
+        "40:01:7a:53:97:20": {
+          "rssi": -46,
+          "num_samples": 3
+        }
+      }
+    },
+    {
+      "x": 108.0,
+      "y": 13.0,
+      "label": "HMI Lab",
+      "location_id": "hmi_lab",
+      "wifi_readings": {
+        "40:01:7a:53:97:25": {
+          "rssi": -36,
+          "num_samples": 10
+        },
+        "f8:0b:cb:f3:88:0a": {
+          "rssi": -55,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:0b": {
+          "rssi": -55,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:0c": {
+          "rssi": -55,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:0d": {
+          "rssi": -55,
+          "num_samples": 1
+        },
+        "40:01:7a:53:97:2d": {
+          "rssi": -46,
+          "num_samples": 15
+        },
+        "40:01:7a:53:97:2c": {
+          "rssi": -45,
+          "num_samples": 9
+        },
+        "40:01:7a:53:97:2b": {
+          "rssi": -46,
+          "num_samples": 13
+        },
+        "40:01:7a:53:97:2a": {
+          "rssi": -47,
+          "num_samples": 8
+        },
+        "40:01:7a:53:97:2f": {
+          "rssi": -42,
+          "num_samples": 5
+        },
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -37,
+          "num_samples": 1
+        },
+        "40:01:7a:53:97:23": {
+          "rssi": -32,
+          "num_samples": 5
+        },
+        "40:01:7a:53:97:22": {
+          "rssi": -33,
+          "num_samples": 6
+        },
+        "40:01:7a:53:97:21": {
+          "rssi": -32,
+          "num_samples": 5
+        },
+        "40:01:7a:53:97:20": {
+          "rssi": -32,
+          "num_samples": 5
+        },
+        "40:01:7a:53:97:24": {
+          "rssi": -33,
+          "num_samples": 10
+        },
+        "40:01:7a:53:97:2e": {
+          "rssi": -42,
+          "num_samples": 3
+        },
+        "f8:0b:cb:f3:88:00": {
+          "rssi": -49,
+          "num_samples": 2
+        },
+        "f8:0b:cb:f3:88:01": {
+          "rssi": -49,
+          "num_samples": 2
+        },
+        "32:13:8b:51:cc:00": {
+          "rssi": -56,
+          "num_samples": 1
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -57,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 60.0,
+      "y": 8.0,
+      "label": "Open Area (Center)",
+      "location_id": "open_area",
+      "wifi_readings": {
+        "ba:9d:95:b6:1c:26": {
+          "rssi": -48,
+          "num_samples": 18
+        },
+        "30:8b:b2:61:de:0b": {
+          "rssi": -56,
+          "num_samples": 33
+        },
+        "30:8b:b2:61:de:0e": {
+          "rssi": -55,
+          "num_samples": 28
+        },
+        "30:8b:b2:61:de:0f": {
+          "rssi": -54,
+          "num_samples": 15
+        },
+        "30:8b:b2:61:de:0c": {
+          "rssi": -54,
+          "num_samples": 8
+        },
+        "30:8b:b2:61:de:0a": {
+          "rssi": -53,
+          "num_samples": 21
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -54,
+          "num_samples": 17
+        },
+        "72:7f:f0:12:cf:80": {
+          "rssi": -53,
+          "num_samples": 10
+        },
+        "30:8b:b2:61:de:0d": {
+          "rssi": -51,
+          "num_samples": 5
+        },
+        "76:7f:f0:12:cf:81": {
+          "rssi": -58,
+          "num_samples": 7
+        },
+        "76:7f:f0:12:cf:84": {
+          "rssi": -57,
+          "num_samples": 4
+        },
+        "76:7f:f0:12:cf:85": {
+          "rssi": -57,
+          "num_samples": 4
+        }
+      }
+    },
+    {
+      "x": 72.0,
+      "y": 3.0,
+      "label": "Room A-401",
+      "location_id": "a401",
+      "wifi_readings": {
+        "6c:31:0e:56:e1:2b": {
+          "rssi": -41,
+          "num_samples": 108
+        },
+        "6c:31:0e:56:e1:2a": {
+          "rssi": -41,
+          "num_samples": 96
+        },
+        "6c:31:0e:56:e1:2d": {
+          "rssi": -40,
+          "num_samples": 90
+        },
+        "6c:31:0e:56:e1:2c": {
+          "rssi": -41,
+          "num_samples": 91
+        },
+        "6c:31:0e:56:e1:2f": {
+          "rssi": -40,
+          "num_samples": 81
+        },
+        "6c:31:0e:56:e1:2e": {
+          "rssi": -42,
+          "num_samples": 30
+        },
+        "6c:31:0e:56:e1:20": {
+          "rssi": -31,
+          "num_samples": 27
+        },
+        "6c:31:0e:56:e1:21": {
+          "rssi": -31,
+          "num_samples": 28
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -34,
+          "num_samples": 7
+        },
+        "6c:31:0e:56:e1:24": {
+          "rssi": -33,
+          "num_samples": 7
+        },
+        "6c:31:0e:56:e1:23": {
+          "rssi": -33,
+          "num_samples": 5
+        }
+      }
+    },
+    {
+      "x": 76.0,
+      "y": 3.0,
+      "label": "Room A-402",
+      "location_id": "a402",
+      "wifi_readings": {
+        "6c:31:0e:56:e1:2b": {
+          "rssi": -38,
+          "num_samples": 100
+        },
+        "6c:31:0e:56:e1:2a": {
+          "rssi": -37,
+          "num_samples": 73
+        },
+        "6c:31:0e:56:e1:2d": {
+          "rssi": -38,
+          "num_samples": 99
+        },
+        "6c:31:0e:56:e1:2c": {
+          "rssi": -39,
+          "num_samples": 88
+        },
+        "6c:31:0e:56:e1:2f": {
+          "rssi": -38,
+          "num_samples": 91
+        },
+        "6c:31:0e:56:e1:20": {
+          "rssi": -32,
+          "num_samples": 8
+        },
+        "6c:31:0e:56:e1:21": {
+          "rssi": -32,
+          "num_samples": 10
+        },
+        "40:01:7a:53:96:81": {
+          "rssi": -53,
+          "num_samples": 4
+        },
+        "40:01:7a:53:96:80": {
+          "rssi": -53,
+          "num_samples": 4
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -53,
+          "num_samples": 4
+        },
+        "6c:31:0e:56:e1:24": {
+          "rssi": -31,
+          "num_samples": 22
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -31,
+          "num_samples": 23
+        },
+        "6c:31:0e:56:e1:2e": {
+          "rssi": -39,
+          "num_samples": 69
+        },
+        "6c:31:0e:56:e1:22": {
+          "rssi": -33,
+          "num_samples": 12
+        },
+        "6c:31:0e:56:e1:23": {
+          "rssi": -31,
+          "num_samples": 16
+        },
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -60,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 80.0,
+      "y": 3.0,
+      "label": "Room A-403",
+      "location_id": "a403",
+      "wifi_readings": {
+        "6c:31:0e:56:e1:2b": {
+          "rssi": -44,
+          "num_samples": 79
+        },
+        "6c:31:0e:56:e1:2d": {
+          "rssi": -44,
+          "num_samples": 72
+        },
+        "6c:31:0e:56:e1:2c": {
+          "rssi": -44,
+          "num_samples": 76
+        },
+        "6c:31:0e:56:e1:2f": {
+          "rssi": -44,
+          "num_samples": 75
+        },
+        "6c:31:0e:56:e1:2e": {
+          "rssi": -43,
+          "num_samples": 50
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -32,
+          "num_samples": 40
+        },
+        "6c:31:0e:56:e1:2a": {
+          "rssi": -43,
+          "num_samples": 61
+        },
+        "6c:31:0e:56:e1:22": {
+          "rssi": -33,
+          "num_samples": 22
+        },
+        "6c:31:0e:56:e1:24": {
+          "rssi": -33,
+          "num_samples": 32
+        },
+        "6c:31:0e:56:e1:23": {
+          "rssi": -33,
+          "num_samples": 26
+        },
+        "6c:31:0e:56:e1:21": {
+          "rssi": -32,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 84.0,
+      "y": 3.0,
+      "label": "Room A-404",
+      "location_id": "a404",
+      "wifi_readings": {
+        "40:01:7a:53:96:8c": {
+          "rssi": -37,
+          "num_samples": 45
+        },
+        "40:01:7a:53:96:8d": {
+          "rssi": -39,
+          "num_samples": 56
+        },
+        "40:01:7a:53:96:8f": {
+          "rssi": -37,
+          "num_samples": 37
+        },
+        "40:01:7a:53:96:8a": {
+          "rssi": -39,
+          "num_samples": 28
+        },
+        "40:01:7a:53:96:8e": {
+          "rssi": -39,
+          "num_samples": 68
+        },
+        "40:01:7a:53:96:81": {
+          "rssi": -36,
+          "num_samples": 60
+        },
+        "40:01:7a:53:96:80": {
+          "rssi": -36,
+          "num_samples": 59
+        },
+        "40:01:7a:53:96:82": {
+          "rssi": -36,
+          "num_samples": 65
+        },
+        "40:01:7a:53:96:84": {
+          "rssi": -35,
+          "num_samples": 3
+        },
+        "40:01:7a:53:96:83": {
+          "rssi": -35,
+          "num_samples": 21
+        },
+        "5c:60:ba:2c:29:05": {
+          "rssi": -44,
+          "num_samples": 3
+        },
+        "40:01:7a:53:96:8b": {
+          "rssi": -39,
+          "num_samples": 45
+        }
+      }
+    },
+    {
+      "x": 88.0,
+      "y": 3.0,
+      "label": "Room A-405",
+      "location_id": "a405",
+      "wifi_readings": {
+        "40:01:7a:53:96:8f": {
+          "rssi": -41,
+          "num_samples": 18
+        },
+        "40:01:7a:53:96:8a": {
+          "rssi": -43,
+          "num_samples": 20
+        },
+        "40:01:7a:53:96:8e": {
+          "rssi": -44,
+          "num_samples": 35
+        },
+        "40:01:7a:53:96:8d": {
+          "rssi": -45,
+          "num_samples": 32
+        },
+        "40:01:7a:53:96:8c": {
+          "rssi": -44,
+          "num_samples": 32
+        },
+        "40:01:7a:53:96:81": {
+          "rssi": -31,
+          "num_samples": 78
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -31,
+          "num_samples": 67
+        },
+        "40:01:7a:53:96:83": {
+          "rssi": -31,
+          "num_samples": 80
+        },
+        "40:01:7a:53:96:82": {
+          "rssi": -30,
+          "num_samples": 52
+        },
+        "40:01:7a:53:96:80": {
+          "rssi": -31,
+          "num_samples": 68
+        },
+        "40:01:7a:53:96:84": {
+          "rssi": -31,
+          "num_samples": 71
+        },
+        "40:01:7a:53:96:8b": {
+          "rssi": -44,
+          "num_samples": 28
+        },
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -47,
+          "num_samples": 4
+        }
+      }
+    },
+    {
+      "x": 96.0,
+      "y": 3.0,
+      "label": "Room A-407",
+      "location_id": "a407",
+      "wifi_readings": {
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -30,
+          "num_samples": 123
+        },
+        "40:01:7a:53:96:81": {
+          "rssi": -47,
+          "num_samples": 15
+        },
+        "40:01:7a:53:96:80": {
+          "rssi": -48,
+          "num_samples": 19
+        },
+        "40:01:7a:53:96:84": {
+          "rssi": -47,
+          "num_samples": 13
+        },
+        "40:01:7a:53:96:83": {
+          "rssi": -46,
+          "num_samples": 11
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -49,
+          "num_samples": 12
+        },
+        "40:01:7a:53:96:8e": {
+          "rssi": -46,
+          "num_samples": 19
+        },
+        "40:01:7a:53:96:8d": {
+          "rssi": -47,
+          "num_samples": 19
+        },
+        "40:01:7a:53:96:8f": {
+          "rssi": -46,
+          "num_samples": 6
+        },
+        "40:01:7a:53:96:8a": {
+          "rssi": -47,
+          "num_samples": 9
+        },
+        "f8:0b:cb:f3:88:0a": {
+          "rssi": -48,
+          "num_samples": 83
+        },
+        "f8:0b:cb:f3:88:0b": {
+          "rssi": -48,
+          "num_samples": 80
+        },
+        "f8:0b:cb:f3:88:0c": {
+          "rssi": -48,
+          "num_samples": 78
+        },
+        "f8:0b:cb:f3:88:0d": {
+          "rssi": -48,
+          "num_samples": 62
+        },
+        "b0:22:7a:a0:93:da": {
+          "rssi": -52,
+          "num_samples": 5
+        },
+        "f8:0b:cb:f3:88:0f": {
+          "rssi": -47,
+          "num_samples": 16
+        },
+        "40:01:7a:53:96:8c": {
+          "rssi": -47,
+          "num_samples": 12
+        },
+        "40:01:7a:53:96:8b": {
+          "rssi": -47,
+          "num_samples": 15
+        },
+        "40:01:7a:53:96:82": {
+          "rssi": -48,
+          "num_samples": 6
+        },
+        "f8:0b:cb:f3:88:0e": {
+          "rssi": -49,
+          "num_samples": 12
+        }
+      }
+    },
+    {
+      "x": 100.0,
+      "y": 3.0,
+      "label": "Room A-408",
+      "location_id": "a408",
+      "wifi_readings": {
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -28,
+          "num_samples": 99
+        },
+        "40:01:7a:53:96:81": {
+          "rssi": -44,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:80": {
+          "rssi": -44,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:82": {
+          "rssi": -45,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -49,
+          "num_samples": 4
+        },
+        "f8:0b:cb:f3:88:0a": {
+          "rssi": -42,
+          "num_samples": 78
+        },
+        "f8:0b:cb:f3:88:0b": {
+          "rssi": -42,
+          "num_samples": 78
+        },
+        "f8:0b:cb:f3:88:0c": {
+          "rssi": -42,
+          "num_samples": 69
+        },
+        "f8:0b:cb:f3:88:0d": {
+          "rssi": -41,
+          "num_samples": 55
+        },
+        "f8:0b:cb:f3:88:0e": {
+          "rssi": -41,
+          "num_samples": 33
+        },
+        "f8:0b:cb:f3:88:0f": {
+          "rssi": -41,
+          "num_samples": 27
+        },
+        "f8:0b:cb:f3:88:00": {
+          "rssi": -29,
+          "num_samples": 5
+        },
+        "f8:0b:cb:f3:88:01": {
+          "rssi": -31,
+          "num_samples": 3
+        },
+        "f8:0b:cb:f3:88:03": {
+          "rssi": -31,
+          "num_samples": 3
+        },
+        "f8:0b:cb:f3:88:04": {
+          "rssi": -31,
+          "num_samples": 3
+        },
+        "40:01:7a:53:96:8e": {
+          "rssi": -51,
+          "num_samples": 8
+        },
+        "40:01:7a:53:96:8f": {
+          "rssi": -50,
+          "num_samples": 8
+        },
+        "40:01:7a:53:96:8a": {
+          "rssi": -51,
+          "num_samples": 8
+        },
+        "40:01:7a:53:96:8d": {
+          "rssi": -54,
+          "num_samples": 6
+        },
+        "40:01:7a:53:96:8b": {
+          "rssi": -43,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 104.0,
+      "y": 3.0,
+      "label": "Room A-409",
+      "location_id": "a409",
+      "wifi_readings": {
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -29,
+          "num_samples": 53
+        },
+        "f8:0b:cb:f3:88:0a": {
+          "rssi": -44,
+          "num_samples": 46
+        },
+        "f8:0b:cb:f3:88:0b": {
+          "rssi": -44,
+          "num_samples": 43
+        },
+        "f8:0b:cb:f3:88:0c": {
+          "rssi": -44,
+          "num_samples": 46
+        },
+        "f8:0b:cb:f3:88:0d": {
+          "rssi": -45,
+          "num_samples": 24
+        },
+        "f8:0b:cb:f3:88:0e": {
+          "rssi": -44,
+          "num_samples": 14
+        },
+        "40:01:7a:53:96:85": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:84": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:83": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "40:01:7a:53:96:82": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:2d": {
+          "rssi": -49,
+          "num_samples": 5
+        },
+        "40:01:7a:53:97:2c": {
+          "rssi": -49,
+          "num_samples": 5
+        },
+        "40:01:7a:53:97:2b": {
+          "rssi": -49,
+          "num_samples": 5
+        },
+        "40:01:7a:53:97:2a": {
+          "rssi": -49,
+          "num_samples": 5
+        },
+        "f8:0b:cb:f3:88:0f": {
+          "rssi": -45,
+          "num_samples": 11
+        }
+      }
+    },
+    {
+      "x": 6.0,
+      "y": 3.0,
+      "label": "Room B-401",
+      "location_id": "b401",
+      "wifi_readings": {
+        "4a:ea:62:7d:97:07": {
+          "rssi": -44,
+          "num_samples": 10
+        },
+        "40:01:7a:53:97:cb": {
+          "rssi": -43,
+          "num_samples": 41
+        },
+        "40:01:7a:53:97:cc": {
+          "rssi": -43,
+          "num_samples": 37
+        },
+        "40:01:7a:53:97:cd": {
+          "rssi": -43,
+          "num_samples": 39
+        },
+        "40:01:7a:53:97:ce": {
+          "rssi": -43,
+          "num_samples": 30
+        },
+        "40:01:7a:53:97:ca": {
+          "rssi": -42,
+          "num_samples": 21
+        },
+        "76:7f:f0:12:cf:81": {
+          "rssi": -47,
+          "num_samples": 4
+        },
+        "76:7f:f0:12:cf:84": {
+          "rssi": -47,
+          "num_samples": 4
+        },
+        "72:7f:f0:12:cf:80": {
+          "rssi": -44,
+          "num_samples": 18
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -45,
+          "num_samples": 21
+        },
+        "40:01:7a:53:97:cf": {
+          "rssi": -41,
+          "num_samples": 11
+        },
+        "40:01:7a:53:97:c5": {
+          "rssi": -40,
+          "num_samples": 36
+        },
+        "40:01:7a:53:97:c3": {
+          "rssi": -41,
+          "num_samples": 29
+        },
+        "40:01:7a:53:97:c4": {
+          "rssi": -41,
+          "num_samples": 25
+        },
+        "40:01:7a:53:97:c0": {
+          "rssi": -40,
+          "num_samples": 4
+        },
+        "40:01:7a:53:97:c2": {
+          "rssi": -42,
+          "num_samples": 24
+        },
+        "72:7f:f0:12:cf:84": {
+          "rssi": -44,
+          "num_samples": 6
+        }
+      }
+    },
+    {
+      "x": 112.0,
+      "y": 3.0,
+      "label": "Room A-412",
+      "location_id": "a412",
+      "wifi_readings": {
+        "40:01:7a:53:97:2d": {
+          "rssi": -45,
+          "num_samples": 44
+        },
+        "40:01:7a:53:97:2c": {
+          "rssi": -45,
+          "num_samples": 40
+        },
+        "40:01:7a:53:97:2b": {
+          "rssi": -45,
+          "num_samples": 42
+        },
+        "40:01:7a:53:97:2a": {
+          "rssi": -44,
+          "num_samples": 41
+        },
+        "40:01:7a:53:97:2f": {
+          "rssi": -44,
+          "num_samples": 32
+        },
+        "40:01:7a:53:97:2e": {
+          "rssi": -47,
+          "num_samples": 7
+        },
+        "f8:0b:cb:f3:88:03": {
+          "rssi": -49,
+          "num_samples": 2
+        },
+        "f8:0b:cb:f3:88:04": {
+          "rssi": -49,
+          "num_samples": 2
+        },
+        "f8:0b:cb:f3:88:05": {
+          "rssi": -49,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:20": {
+          "rssi": -39,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:21": {
+          "rssi": -40,
+          "num_samples": 6
+        },
+        "40:01:7a:53:97:24": {
+          "rssi": -41,
+          "num_samples": 9
+        },
+        "40:01:7a:53:97:23": {
+          "rssi": -40,
+          "num_samples": 6
+        },
+        "40:01:7a:53:97:25": {
+          "rssi": -40,
+          "num_samples": 6
+        },
+        "40:01:7a:53:97:22": {
+          "rssi": -41,
+          "num_samples": 3
+        }
+      }
+    },
+    {
+      "x": 108.0,
+      "y": 3.0,
+      "label": "Room A-410",
+      "location_id": "a410",
+      "wifi_readings": {
+        "40:01:7a:53:97:22": {
+          "rssi": -35,
+          "num_samples": 34
+        },
+        "40:01:7a:53:97:21": {
+          "rssi": -35,
+          "num_samples": 34
+        },
+        "40:01:7a:53:97:20": {
+          "rssi": -35,
+          "num_samples": 26
+        },
+        "40:01:7a:53:97:23": {
+          "rssi": -36,
+          "num_samples": 32
+        },
+        "40:01:7a:53:97:25": {
+          "rssi": -36,
+          "num_samples": 12
+        },
+        "40:01:7a:53:97:2d": {
+          "rssi": -44,
+          "num_samples": 8
+        },
+        "40:01:7a:53:97:2a": {
+          "rssi": -44,
+          "num_samples": 9
+        },
+        "40:01:7a:53:97:24": {
+          "rssi": -36,
+          "num_samples": 21
+        },
+        "40:01:7a:53:97:2c": {
+          "rssi": -43,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:2b": {
+          "rssi": -43,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:2f": {
+          "rssi": -44,
+          "num_samples": 3
+        }
+      }
+    },
+    {
+      "x": 96.0,
+      "y": 13.0,
+      "label": "IRAS Lab",
+      "location_id": "iras_lab",
+      "wifi_readings": {
+        "72:7f:f0:12:cf:80": {
+          "rssi": -40,
+          "num_samples": 41
+        },
+        "00:df:1d:6a:9c:2b": {
+          "rssi": -44,
+          "num_samples": 11
+        },
+        "76:7f:f0:12:cf:85": {
+          "rssi": -40,
+          "num_samples": 3
+        },
+        "00:df:1d:6a:9c:2e": {
+          "rssi": -44,
+          "num_samples": 12
+        },
+        "00:df:1d:6a:9c:2f": {
+          "rssi": -47,
+          "num_samples": 14
+        },
+        "00:df:1d:6a:9c:2a": {
+          "rssi": -51,
+          "num_samples": 9
+        },
+        "00:df:1d:6a:9c:2d": {
+          "rssi": -41,
+          "num_samples": 9
+        },
+        "00:df:1d:6a:9c:2c": {
+          "rssi": -44,
+          "num_samples": 11
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -40,
+          "num_samples": 42
+        },
+        "76:7f:f0:12:cf:81": {
+          "rssi": -40,
+          "num_samples": 48
+        },
+        "76:7f:f0:12:cf:84": {
+          "rssi": -40,
+          "num_samples": 48
+        },
+        "40:01:7a:53:97:cf": {
+          "rssi": -50,
+          "num_samples": 2
+        },
+        "4a:ea:62:7d:97:07": {
+          "rssi": -53,
+          "num_samples": 12
+        },
+        "40:01:7a:53:97:c0": {
+          "rssi": -48,
+          "num_samples": 12
+        },
+        "74:88:bb:8a:aa:a4": {
+          "rssi": -52,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:ce": {
+          "rssi": -58,
+          "num_samples": 1
+        },
+        "74:88:bb:8a:aa:a5": {
+          "rssi": -53,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:cb": {
+          "rssi": -58,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:cc": {
+          "rssi": -58,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:cd": {
+          "rssi": -58,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:c3": {
+          "rssi": -42,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:c1": {
+          "rssi": -41,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 34.0,
+      "y": 19.0,
+      "label": "Discussion Room 2",
+      "location_id": "discussion_room_2a",
+      "wifi_readings": {
+        "f8:0b:cb:f3:88:00": {
+          "rssi": -50,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:01": {
+          "rssi": -50,
+          "num_samples": 1
+        },
+        "f8:0b:cb:f3:88:02": {
+          "rssi": -50,
+          "num_samples": 1
+        },
+        "b0:22:7a:a0:93:da": {
+          "rssi": -54,
+          "num_samples": 1
+        },
+        "00:df:1d:62:f9:43": {
+          "rssi": -58,
+          "num_samples": 1
+        },
+        "b8:11:4b:c9:d8:a4": {
+          "rssi": -49,
+          "num_samples": 1
+        },
+        "b8:11:4b:c9:d8:a3": {
+          "rssi": -49,
+          "num_samples": 1
+        },
+        "b8:11:4b:c9:d8:a1": {
+          "rssi": -49,
+          "num_samples": 1
+        },
+        "b8:11:4b:c9:d8:a5": {
+          "rssi": -49,
+          "num_samples": 1
+        },
+        "b8:11:4b:c9:d8:a0": {
+          "rssi": -49,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 10.0,
+      "y": 3.0,
+      "label": "Room B-402",
+      "location_id": "b402",
+      "wifi_readings": {
+        "40:01:7a:53:97:cd": {
+          "rssi": -45,
+          "num_samples": 20
+        },
+        "40:01:7a:53:97:ce": {
+          "rssi": -44,
+          "num_samples": 15
+        },
+        "4a:ea:62:7d:97:07": {
+          "rssi": -46,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:cb": {
+          "rssi": -45,
+          "num_samples": 27
+        },
+        "40:01:7a:53:97:cc": {
+          "rssi": -46,
+          "num_samples": 27
+        },
+        "00:df:1d:6a:9c:2e": {
+          "rssi": -54,
+          "num_samples": 4
+        },
+        "00:df:1d:6a:9c:2f": {
+          "rssi": -53,
+          "num_samples": 2
+        },
+        "00:df:1d:6a:9c:2c": {
+          "rssi": -53,
+          "num_samples": 2
+        },
+        "72:7f:f0:12:cf:84": {
+          "rssi": -46,
+          "num_samples": 10
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -46,
+          "num_samples": 10
+        },
+        "72:7f:f0:12:cf:80": {
+          "rssi": -45,
+          "num_samples": 5
+        },
+        "40:01:7a:53:97:c0": {
+          "rssi": -40,
+          "num_samples": 4
+        },
+        "40:01:7a:53:97:c1": {
+          "rssi": -37,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:c2": {
+          "rssi": -39,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:c3": {
+          "rssi": -39,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:ca": {
+          "rssi": -41,
+          "num_samples": 19
+        },
+        "40:01:7a:53:97:cf": {
+          "rssi": -44,
+          "num_samples": 21
+        },
+        "74:88:bb:8a:aa:a3": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "74:88:bb:8a:aa:a4": {
+          "rssi": -51,
+          "num_samples": 2
+        },
+        "74:88:bb:8a:aa:a1": {
+          "rssi": -52,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 14.0,
+      "y": 3.0,
+      "label": "Room B-403",
+      "location_id": "b403",
+      "wifi_readings": {
+        "40:01:7a:53:97:cb": {
+          "rssi": -46,
+          "num_samples": 11
+        },
+        "40:01:7a:53:97:cc": {
+          "rssi": -47,
+          "num_samples": 16
+        },
+        "40:01:7a:53:97:ce": {
+          "rssi": -45,
+          "num_samples": 10
+        },
+        "40:01:7a:53:97:cd": {
+          "rssi": -46,
+          "num_samples": 10
+        },
+        "40:01:7a:53:97:ca": {
+          "rssi": -45,
+          "num_samples": 19
+        },
+        "40:01:7a:53:97:cf": {
+          "rssi": -46,
+          "num_samples": 12
+        },
+        "4a:ea:62:7d:97:07": {
+          "rssi": -51,
+          "num_samples": 5
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -48,
+          "num_samples": 14
+        },
+        "74:88:bb:ee:97:e4": {
+          "rssi": -53,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:e5": {
+          "rssi": -53,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:c2": {
+          "rssi": -41,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:c0": {
+          "rssi": -42,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:c1": {
+          "rssi": -42,
+          "num_samples": 2
+        },
+        "72:7f:f0:12:cf:84": {
+          "rssi": -47,
+          "num_samples": 10
+        },
+        "72:7f:f0:12:cf:80": {
+          "rssi": -48,
+          "num_samples": 11
+        },
+        "74:88:bb:8a:aa:a1": {
+          "rssi": -46,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:c4": {
+          "rssi": -36,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:c5": {
+          "rssi": -38,
+          "num_samples": 2
+        },
+        "74:88:bb:8a:aa:ac": {
+          "rssi": -52,
+          "num_samples": 1
+        },
+        "74:88:bb:8a:aa:a3": {
+          "rssi": -56,
+          "num_samples": 2
+        },
+        "84:f1:47:90:e5:a5": {
+          "rssi": -49,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 54.0,
+      "y": 8.0,
+      "label": "Open Area 1 (B-Wing)",
+      "location_id": "open_area_1b",
+      "wifi_readings": {
+        "40:01:7a:53:97:ca": {
+          "rssi": -62,
+          "num_samples": 12
+        },
+        "72:7f:f0:12:cf:80": {
+          "rssi": -60,
+          "num_samples": 4
+        },
+        "74:88:bb:8a:aa:ac": {
+          "rssi": -60,
+          "num_samples": 4
+        },
+        "72:7f:f0:12:cf:84": {
+          "rssi": -63,
+          "num_samples": 7
+        },
+        "74:88:bb:8a:aa:ad": {
+          "rssi": -60,
+          "num_samples": 4
+        },
+        "74:88:bb:8a:aa:a3": {
+          "rssi": -53,
+          "num_samples": 9
+        },
+        "74:88:bb:8a:aa:a0": {
+          "rssi": -54,
+          "num_samples": 14
+        },
+        "74:88:bb:8a:aa:a1": {
+          "rssi": -53,
+          "num_samples": 9
+        },
+        "74:88:bb:8a:aa:a2": {
+          "rssi": -52,
+          "num_samples": 7
+        },
+        "84:f1:47:90:e5:a1": {
+          "rssi": -56,
+          "num_samples": 4
+        },
+        "40:01:7a:53:97:ce": {
+          "rssi": -61,
+          "num_samples": 5
+        },
+        "40:01:7a:53:97:cf": {
+          "rssi": -66,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:cc": {
+          "rssi": -67,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:cd": {
+          "rssi": -60,
+          "num_samples": 5
+        },
+        "74:88:bb:8a:aa:ae": {
+          "rssi": -63,
+          "num_samples": 2
+        },
+        "74:88:bb:8a:aa:af": {
+          "rssi": -63,
+          "num_samples": 2
+        },
+        "74:88:bb:8a:aa:ab": {
+          "rssi": -63,
+          "num_samples": 2
+        },
+        "4a:ea:62:7d:97:07": {
+          "rssi": -64,
+          "num_samples": 9
+        },
+        "84:f1:47:90:e5:a3": {
+          "rssi": -56,
+          "num_samples": 3
+        },
+        "84:f1:47:90:e5:a0": {
+          "rssi": -59,
+          "num_samples": 2
+        },
+        "84:f1:47:90:e5:a2": {
+          "rssi": -57,
+          "num_samples": 3
+        },
+        "74:88:bb:8a:aa:a4": {
+          "rssi": -54,
+          "num_samples": 6
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -60,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:cb": {
+          "rssi": -57,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:e0": {
+          "rssi": -68,
+          "num_samples": 2
+        },
+        "74:88:bb:ee:97:e1": {
+          "rssi": -68,
+          "num_samples": 2
+        },
+        "74:88:bb:ee:97:e2": {
+          "rssi": -68,
+          "num_samples": 2
+        },
+        "84:f1:47:90:e5:a4": {
+          "rssi": -52,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 18.0,
+      "y": 3.0,
+      "label": "Room B-404",
+      "location_id": "b404",
+      "wifi_readings": {
+        "74:88:bb:8a:aa:a0": {
+          "rssi": -35,
+          "num_samples": 7
+        },
+        "74:88:bb:8a:aa:a1": {
+          "rssi": -36,
+          "num_samples": 7
+        },
+        "74:88:bb:ee:97:ee": {
+          "rssi": -46,
+          "num_samples": 2
+        },
+        "74:88:bb:8a:aa:ad": {
+          "rssi": -46,
+          "num_samples": 16
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -47,
+          "num_samples": 2
+        },
+        "74:88:bb:8a:aa:ac": {
+          "rssi": -46,
+          "num_samples": 14
+        },
+        "74:88:bb:8a:aa:ae": {
+          "rssi": -47,
+          "num_samples": 8
+        },
+        "74:88:bb:8a:aa:af": {
+          "rssi": -47,
+          "num_samples": 9
+        },
+        "74:88:bb:8a:aa:aa": {
+          "rssi": -48,
+          "num_samples": 6
+        },
+        "74:88:bb:ee:97:e2": {
+          "rssi": -50,
+          "num_samples": 6
+        },
+        "74:88:bb:ee:97:e3": {
+          "rssi": -51,
+          "num_samples": 5
+        },
+        "74:88:bb:ee:97:e4": {
+          "rssi": -50,
+          "num_samples": 5
+        },
+        "74:88:bb:ee:97:e5": {
+          "rssi": -50,
+          "num_samples": 5
+        },
+        "74:88:bb:ee:97:e0": {
+          "rssi": -50,
+          "num_samples": 4
+        },
+        "74:88:bb:8a:aa:ab": {
+          "rssi": -47,
+          "num_samples": 1
+        },
+        "74:88:bb:8a:aa:a4": {
+          "rssi": -34,
+          "num_samples": 7
+        },
+        "74:88:bb:8a:aa:a3": {
+          "rssi": -34,
+          "num_samples": 7
+        },
+        "74:88:bb:8a:aa:a2": {
+          "rssi": -38,
+          "num_samples": 4
+        },
+        "74:88:bb:ee:97:e1": {
+          "rssi": -51,
+          "num_samples": 4
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -53,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 22.0,
+      "y": 3.0,
+      "label": "Room B-405",
+      "location_id": "b405",
+      "wifi_readings": {
+        "74:88:bb:8a:aa:a3": {
+          "rssi": -31,
+          "num_samples": 1
+        },
+        "74:88:bb:8a:aa:a4": {
+          "rssi": -31,
+          "num_samples": 1
+        },
+        "74:88:bb:8a:aa:a5": {
+          "rssi": -31,
+          "num_samples": 1
+        },
+        "74:88:bb:8a:aa:a0": {
+          "rssi": -33,
+          "num_samples": 17
+        },
+        "74:88:bb:8a:aa:a1": {
+          "rssi": -33,
+          "num_samples": 15
+        },
+        "74:88:bb:8a:aa:ae": {
+          "rssi": -45,
+          "num_samples": 9
+        },
+        "74:88:bb:8a:aa:aa": {
+          "rssi": -43,
+          "num_samples": 20
+        },
+        "74:88:bb:8a:aa:ac": {
+          "rssi": -45,
+          "num_samples": 20
+        },
+        "74:88:bb:8a:aa:ad": {
+          "rssi": -44,
+          "num_samples": 13
+        },
+        "74:88:bb:ee:97:ee": {
+          "rssi": -47,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -47,
+          "num_samples": 9
+        },
+        "74:88:bb:ee:97:eb": {
+          "rssi": -47,
+          "num_samples": 7
+        },
+        "74:88:bb:ee:97:ed": {
+          "rssi": -47,
+          "num_samples": 7
+        },
+        "74:88:bb:ee:97:ec": {
+          "rssi": -47,
+          "num_samples": 7
+        },
+        "74:88:bb:8a:aa:a2": {
+          "rssi": -32,
+          "num_samples": 1
+        },
+        "74:88:bb:8a:aa:af": {
+          "rssi": -45,
+          "num_samples": 7
+        },
+        "74:88:bb:ee:97:e1": {
+          "rssi": -47,
+          "num_samples": 7
+        },
+        "74:88:bb:ee:97:e0": {
+          "rssi": -47,
+          "num_samples": 5
+        },
+        "74:88:bb:8a:aa:ab": {
+          "rssi": -43,
+          "num_samples": 7
+        },
+        "74:88:bb:ee:97:e2": {
+          "rssi": -49,
+          "num_samples": 3
+        }
+      }
+    },
+    {
+      "x": 26.0,
+      "y": 3.0,
+      "label": "Room B-406",
+      "location_id": "b406",
+      "wifi_readings": {
+        "74:88:bb:8a:aa:a1": {
+          "rssi": -36,
+          "num_samples": 12
+        },
+        "74:88:bb:8a:aa:a0": {
+          "rssi": -36,
+          "num_samples": 10
+        },
+        "74:88:bb:8a:aa:aa": {
+          "rssi": -46,
+          "num_samples": 14
+        },
+        "84:f1:47:90:e5:a5": {
+          "rssi": -50,
+          "num_samples": 1
+        },
+        "84:f1:47:90:e5:a4": {
+          "rssi": -50,
+          "num_samples": 1
+        },
+        "74:88:bb:8a:aa:a2": {
+          "rssi": -40,
+          "num_samples": 8
+        },
+        "74:88:bb:ee:97:eb": {
+          "rssi": -54,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:ec": {
+          "rssi": -54,
+          "num_samples": 3
+        },
+        "74:88:bb:8a:aa:ae": {
+          "rssi": -48,
+          "num_samples": 7
+        },
+        "74:88:bb:8a:aa:af": {
+          "rssi": -48,
+          "num_samples": 6
+        },
+        "74:88:bb:8a:aa:ac": {
+          "rssi": -45,
+          "num_samples": 7
+        },
+        "74:88:bb:8a:aa:ad": {
+          "rssi": -45,
+          "num_samples": 7
+        },
+        "74:88:bb:8a:aa:ab": {
+          "rssi": -45,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:e0": {
+          "rssi": -47,
+          "num_samples": 9
+        },
+        "74:88:bb:ee:97:e2": {
+          "rssi": -45,
+          "num_samples": 5
+        },
+        "74:88:bb:ee:97:e3": {
+          "rssi": -44,
+          "num_samples": 2
+        },
+        "74:88:bb:ee:97:e1": {
+          "rssi": -50,
+          "num_samples": 5
+        },
+        "74:88:bb:ee:97:ef": {
+          "rssi": -49,
+          "num_samples": 1
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -50,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 30.0,
+      "y": 3.0,
+      "label": "Room B-407",
+      "location_id": "b407",
+      "wifi_readings": {
+        "74:88:bb:ee:97:e0": {
+          "rssi": -41,
+          "num_samples": 22
+        },
+        "74:88:bb:ee:97:e1": {
+          "rssi": -41,
+          "num_samples": 27
+        },
+        "74:88:bb:ee:97:e2": {
+          "rssi": -40,
+          "num_samples": 28
+        },
+        "74:88:bb:ee:97:e3": {
+          "rssi": -40,
+          "num_samples": 15
+        },
+        "74:88:bb:ee:97:ee": {
+          "rssi": -47,
+          "num_samples": 13
+        },
+        "74:88:bb:ee:97:eb": {
+          "rssi": -47,
+          "num_samples": 15
+        },
+        "74:88:bb:ee:97:ec": {
+          "rssi": -46,
+          "num_samples": 15
+        },
+        "74:88:bb:ee:97:ed": {
+          "rssi": -48,
+          "num_samples": 8
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -48,
+          "num_samples": 19
+        },
+        "74:88:bb:8a:aa:aa": {
+          "rssi": -48,
+          "num_samples": 4
+        },
+        "74:88:bb:ee:97:e5": {
+          "rssi": -44,
+          "num_samples": 2
+        },
+        "74:88:bb:8a:aa:a0": {
+          "rssi": -45,
+          "num_samples": 8
+        },
+        "74:88:bb:8a:aa:a1": {
+          "rssi": -45,
+          "num_samples": 5
+        },
+        "74:88:bb:ee:97:ef": {
+          "rssi": -47,
+          "num_samples": 4
+        },
+        "74:88:bb:ee:97:e4": {
+          "rssi": -44,
+          "num_samples": 1
+        },
+        "c2:18:03:97:27:36": {
+          "rssi": -48,
+          "num_samples": 4
+        }
+      }
+    },
+    {
+      "x": 34.0,
+      "y": 3.0,
+      "label": "Room B-408",
+      "location_id": "b408",
+      "wifi_readings": {
+        "74:88:bb:ee:97:e0": {
+          "rssi": -35,
+          "num_samples": 27
+        },
+        "74:88:bb:ee:97:e1": {
+          "rssi": -35,
+          "num_samples": 33
+        },
+        "74:88:bb:ee:97:e2": {
+          "rssi": -35,
+          "num_samples": 33
+        },
+        "74:88:bb:ee:97:ed": {
+          "rssi": -42,
+          "num_samples": 11
+        },
+        "74:88:bb:ee:97:ee": {
+          "rssi": -42,
+          "num_samples": 14
+        },
+        "74:88:bb:ee:97:e3": {
+          "rssi": -32,
+          "num_samples": 7
+        },
+        "74:88:bb:ee:97:eb": {
+          "rssi": -45,
+          "num_samples": 27
+        },
+        "74:88:bb:ee:97:ec": {
+          "rssi": -45,
+          "num_samples": 33
+        },
+        "74:88:bb:8a:aa:a1": {
+          "rssi": -44,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:ef": {
+          "rssi": -44,
+          "num_samples": 21
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -45,
+          "num_samples": 28
+        },
+        "24:36:da:9d:48:8f": {
+          "rssi": -52,
+          "num_samples": 1
+        },
+        "24:36:da:9d:48:8e": {
+          "rssi": -52,
+          "num_samples": 1
+        },
+        "24:36:da:9d:48:8b": {
+          "rssi": -54,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 38.0,
+      "y": 3.0,
+      "label": "Room B-409",
+      "location_id": "b409",
+      "wifi_readings": {
+        "74:88:bb:ee:97:e0": {
+          "rssi": -40,
+          "num_samples": 24
+        },
+        "74:88:bb:ee:97:e1": {
+          "rssi": -37,
+          "num_samples": 33
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -42,
+          "num_samples": 38
+        },
+        "74:88:bb:ee:97:eb": {
+          "rssi": -42,
+          "num_samples": 39
+        },
+        "74:88:bb:ee:97:ed": {
+          "rssi": -41,
+          "num_samples": 30
+        },
+        "74:88:bb:ee:97:ee": {
+          "rssi": -41,
+          "num_samples": 15
+        },
+        "74:88:bb:ee:97:ef": {
+          "rssi": -38,
+          "num_samples": 13
+        },
+        "74:88:bb:ee:97:ec": {
+          "rssi": -42,
+          "num_samples": 35
+        },
+        "74:88:bb:ee:97:e2": {
+          "rssi": -37,
+          "num_samples": 25
+        },
+        "74:88:bb:ee:97:e3": {
+          "rssi": -38,
+          "num_samples": 12
+        },
+        "c2:18:03:97:27:36": {
+          "rssi": -50,
+          "num_samples": 6
+        },
+        "bc:22:28:41:99:9c": {
+          "rssi": -52,
+          "num_samples": 2
+        },
+        "70:db:98:07:84:aa": {
+          "rssi": -48,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:a0": {
+          "rssi": -44,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:ad": {
+          "rssi": -46,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:ae": {
+          "rssi": -46,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:ab": {
+          "rssi": -47,
+          "num_samples": 5
+        },
+        "70:db:98:07:84:ac": {
+          "rssi": -47,
+          "num_samples": 5
+        },
+        "24:36:da:9d:48:8b": {
+          "rssi": -52,
+          "num_samples": 2
+        },
+        "24:36:da:9d:48:8e": {
+          "rssi": -52,
+          "num_samples": 2
+        },
+        "74:88:bb:ee:97:e4": {
+          "rssi": -34,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:af": {
+          "rssi": -46,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:e5": {
+          "rssi": -36,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 68.0,
+      "y": 8.0,
+      "label": "Open Area 2 (Near Lift)",
+      "location_id": "open_area_2b",
+      "wifi_readings": {
+        "74:88:bb:ee:97:e0": {
+          "rssi": -39,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:a0": {
+          "rssi": -41,
+          "num_samples": 4
+        },
+        "74:88:bb:ee:97:e1": {
+          "rssi": -41,
+          "num_samples": 4
+        },
+        "74:88:bb:ee:97:e2": {
+          "rssi": -41,
+          "num_samples": 4
+        },
+        "74:88:bb:ee:97:e3": {
+          "rssi": -42,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:aa": {
+          "rssi": -56,
+          "num_samples": 13
+        },
+        "70:db:98:07:84:ac": {
+          "rssi": -55,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:ae": {
+          "rssi": -55,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:af": {
+          "rssi": -55,
+          "num_samples": 3
+        },
+        "70:db:98:07:84:ab": {
+          "rssi": -56,
+          "num_samples": 4
+        },
+        "70:db:98:07:84:a5": {
+          "rssi": -50,
+          "num_samples": 10
+        },
+        "bc:22:28:41:99:9c": {
+          "rssi": -62,
+          "num_samples": 9
+        },
+        "c2:18:03:97:27:36": {
+          "rssi": -57,
+          "num_samples": 6
+        },
+        "70:db:98:07:84:ad": {
+          "rssi": -58,
+          "num_samples": 2
+        },
+        "70:db:98:07:84:a4": {
+          "rssi": -54,
+          "num_samples": 5
+        },
+        "70:db:98:07:84:a3": {
+          "rssi": -55,
+          "num_samples": 5
+        },
+        "74:88:bb:8a:aa:a0": {
+          "rssi": -62,
+          "num_samples": 3
+        },
+        "74:88:bb:8a:aa:a3": {
+          "rssi": -63,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -64,
+          "num_samples": 11
+        },
+        "74:88:bb:ee:97:eb": {
+          "rssi": -64,
+          "num_samples": 9
+        },
+        "74:88:bb:ee:97:ec": {
+          "rssi": -63,
+          "num_samples": 7
+        },
+        "74:88:bb:ee:97:ed": {
+          "rssi": -62,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:ee": {
+          "rssi": -62,
+          "num_samples": 3
+        },
+        "f2:a6:54:0d:25:d6": {
+          "rssi": -60,
+          "num_samples": 8
+        },
+        "24:36:da:9d:48:85": {
+          "rssi": -63,
+          "num_samples": 2
+        },
+        "24:36:da:9d:48:84": {
+          "rssi": -64,
+          "num_samples": 2
+        },
+        "24:36:da:9d:0e:a3": {
+          "rssi": -65,
+          "num_samples": 3
+        },
+        "24:36:da:9d:0e:a1": {
+          "rssi": -65,
+          "num_samples": 3
+        },
+        "24:36:da:9d:0e:a0": {
+          "rssi": -66,
+          "num_samples": 3
+        }
+      }
+    },
+    {
+      "x": 42.0,
+      "y": 3.0,
+      "label": "Room B-410",
+      "location_id": "b410",
+      "wifi_readings": {
+        "70:db:98:07:84:aa": {
+          "rssi": -41,
+          "num_samples": 27
+        },
+        "70:db:98:07:84:a5": {
+          "rssi": -37,
+          "num_samples": 23
+        },
+        "70:db:98:07:84:ab": {
+          "rssi": -40,
+          "num_samples": 44
+        },
+        "70:db:98:07:84:ac": {
+          "rssi": -41,
+          "num_samples": 35
+        },
+        "70:db:98:07:84:ae": {
+          "rssi": -40,
+          "num_samples": 30
+        },
+        "70:db:98:07:84:a3": {
+          "rssi": -37,
+          "num_samples": 16
+        },
+        "70:db:98:07:84:a4": {
+          "rssi": -36,
+          "num_samples": 21
+        },
+        "70:db:98:07:84:ad": {
+          "rssi": -41,
+          "num_samples": 41
+        },
+        "70:db:98:07:84:af": {
+          "rssi": -40,
+          "num_samples": 25
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -54,
+          "num_samples": 2
+        },
+        "74:88:bb:ee:97:eb": {
+          "rssi": -54,
+          "num_samples": 2
+        },
+        "74:88:bb:ee:97:ed": {
+          "rssi": -54,
+          "num_samples": 2
+        },
+        "74:88:bb:ee:97:ee": {
+          "rssi": -54,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 46.0,
+      "y": 3.0,
+      "label": "Room B-411",
+      "location_id": "b411",
+      "wifi_readings": {
+        "70:db:98:07:84:a4": {
+          "rssi": -32,
+          "num_samples": 18
+        },
+        "70:db:98:07:84:ab": {
+          "rssi": -44,
+          "num_samples": 12
+        },
+        "70:db:98:07:84:ad": {
+          "rssi": -41,
+          "num_samples": 18
+        },
+        "70:db:98:07:84:af": {
+          "rssi": -35,
+          "num_samples": 5
+        },
+        "70:db:98:07:84:ac": {
+          "rssi": -40,
+          "num_samples": 10
+        },
+        "70:db:98:07:84:a5": {
+          "rssi": -31,
+          "num_samples": 15
+        },
+        "70:db:98:07:84:aa": {
+          "rssi": -39,
+          "num_samples": 16
+        },
+        "70:db:98:07:84:ae": {
+          "rssi": -44,
+          "num_samples": 13
+        },
+        "70:db:98:07:84:a3": {
+          "rssi": -28,
+          "num_samples": 8
+        }
+      }
+    },
+    {
+      "x": 50.0,
+      "y": 3.0,
+      "label": "Room B-412",
+      "location_id": "b412",
+      "wifi_readings": {
+        "70:db:98:07:84:a3": {
+          "rssi": -34,
+          "num_samples": 11
+        },
+        "70:db:98:07:84:a4": {
+          "rssi": -34,
+          "num_samples": 22
+        },
+        "70:db:98:07:84:ab": {
+          "rssi": -45,
+          "num_samples": 25
+        },
+        "70:db:98:07:84:ac": {
+          "rssi": -45,
+          "num_samples": 28
+        },
+        "70:db:98:07:84:ad": {
+          "rssi": -44,
+          "num_samples": 19
+        },
+        "70:db:98:07:84:a5": {
+          "rssi": -34,
+          "num_samples": 26
+        },
+        "70:db:98:07:84:ae": {
+          "rssi": -40,
+          "num_samples": 8
+        },
+        "70:db:98:07:84:af": {
+          "rssi": -43,
+          "num_samples": 11
+        },
+        "70:db:98:07:84:aa": {
+          "rssi": -41,
+          "num_samples": 11
+        },
+        "bc:22:28:41:99:9c": {
+          "rssi": -54,
+          "num_samples": 3
+        },
+        "74:88:bb:ee:97:ea": {
+          "rssi": -52,
+          "num_samples": 1
+        },
+        "74:88:bb:ee:97:ec": {
+          "rssi": -52,
+          "num_samples": 1
+        },
+        "74:88:bb:ee:97:ed": {
+          "rssi": -52,
+          "num_samples": 1
+        },
+        "74:88:bb:ee:97:ee": {
+          "rssi": -52,
+          "num_samples": 1
+        },
+        "70:db:98:07:84:a2": {
+          "rssi": -35,
+          "num_samples": 2
+        }
+      }
+    },
+    {
+      "x": 42.0,
+      "y": 13.0,
+      "label": "DCL Lab",
+      "location_id": "dcl_lab",
+      "wifi_readings": {
+        "72:7f:f0:12:cf:84": {
+          "rssi": -42,
+          "num_samples": 2
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -46,
+          "num_samples": 7
+        },
+        "40:01:7a:53:97:cb": {
+          "rssi": -45,
+          "num_samples": 4
+        },
+        "40:01:7a:53:97:cc": {
+          "rssi": -46,
+          "num_samples": 6
+        },
+        "40:01:7a:53:97:cd": {
+          "rssi": -45,
+          "num_samples": 4
+        },
+        "76:7f:f0:12:cf:81": {
+          "rssi": -45,
+          "num_samples": 3
+        },
+        "76:7f:f0:12:cf:84": {
+          "rssi": -45,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:ce": {
+          "rssi": -45,
+          "num_samples": 2
+        },
+        "72:7f:f0:12:cf:80": {
+          "rssi": -47,
+          "num_samples": 5
+        },
+        "74:88:bb:8a:aa:a0": {
+          "rssi": -49,
+          "num_samples": 2
+        },
+        "40:01:7a:53:97:ca": {
+          "rssi": -47,
+          "num_samples": 3
+        },
+        "40:01:7a:53:97:cf": {
+          "rssi": -48,
+          "num_samples": 3
+        },
+        "4a:ea:62:7d:97:07": {
+          "rssi": -46,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 62.0,
+      "y": 5.0,
+      "label": "Lift / Elevator Area",
+      "location_id": "lift_area",
+      "wifi_readings": {
+        "6c:31:0e:56:e1:21": {
+          "rssi": -75,
+          "num_samples": 9
+        },
+        "6c:31:0e:56:e1:20": {
+          "rssi": -74,
+          "num_samples": 16
+        },
+        "6c:31:0e:56:e1:22": {
+          "rssi": -75,
+          "num_samples": 9
+        },
+        "6c:31:0e:56:e1:24": {
+          "rssi": -74,
+          "num_samples": 6
+        },
+        "6c:31:0e:56:e1:23": {
+          "rssi": -75,
+          "num_samples": 9
+        },
+        "72:7f:f0:12:cf:83": {
+          "rssi": -70,
+          "num_samples": 19
+        },
+        "72:7f:f0:12:cf:80": {
+          "rssi": -70,
+          "num_samples": 17
+        },
+        "00:df:1d:6a:9c:25": {
+          "rssi": -72,
+          "num_samples": 6
+        },
+        "00:df:1d:6a:9c:24": {
+          "rssi": -71,
+          "num_samples": 3
+        },
+        "00:df:1d:6a:9c:21": {
+          "rssi": -72,
+          "num_samples": 6
+        },
+        "6c:31:0e:56:e1:25": {
+          "rssi": -72,
+          "num_samples": 13
+        },
+        "72:7f:f0:12:cf:84": {
+          "rssi": -72,
+          "num_samples": 11
+        },
+        "98:ba:5f:96:e3:4c": {
+          "rssi": -83,
+          "num_samples": 3
+        },
+        "24:36:da:a3:89:c2": {
+          "rssi": -78,
+          "num_samples": 3
+        },
+        "24:36:da:a3:89:c3": {
+          "rssi": -77,
+          "num_samples": 1
+        },
+        "00:df:1d:6a:9c:20": {
+          "rssi": -73,
+          "num_samples": 2
+        },
+        "24:36:da:a3:89:c1": {
+          "rssi": -77,
+          "num_samples": 2
+        },
+        "24:36:da:a3:89:c0": {
+          "rssi": -78,
+          "num_samples": 2
+        },
+        "76:7f:f0:12:cf:81": {
+          "rssi": -80,
+          "num_samples": 2
+        },
+        "00:df:1d:6a:9c:23": {
+          "rssi": -70,
+          "num_samples": 1
+        }
+      }
+    },
+    {
+      "x": 22.0,
+      "y": 19.0,
+      "label": "Discussion Room 1",
+      "location_id": "discussion_room_1a",
+      "wifi_readings": {
+        "00:df:1d:62:f9:45": {
+          "rssi": -50,
+          "num_samples": 14
+        },
+        "00:df:1d:62:f9:41": {
+          "rssi": -50,
+          "num_samples": 14
+        },
+        "00:df:1d:62:f9:42": {
+          "rssi": -51,
+          "num_samples": 14
+        },
+        "00:df:1d:62:f9:44": {
+          "rssi": -51,
+          "num_samples": 14
+        },
+        "00:df:1d:62:f9:43": {
+          "rssi": -51,
+          "num_samples": 12
+        },
+        "24:36:da:9d:3c:c3": {
+          "rssi": -50,
+          "num_samples": 13
+        },
+        "24:36:da:9d:3c:c2": {
+          "rssi": -49,
+          "num_samples": 13
+        },
+        "24:36:da:9d:3c:c5": {
+          "rssi": -51,
+          "num_samples": 9
+        },
+        "24:36:da:9d:3c:c1": {
+          "rssi": -49,
+          "num_samples": 10
+        },
+        "24:36:da:9d:3c:c4": {
+          "rssi": -50,
+          "num_samples": 13
+        },
+        "52:c5:51:61:99:b3": {
+          "rssi": -49,
+          "num_samples": 3
+        },
+        "00:df:1d:62:f9:40": {
+          "rssi": -50,
+          "num_samples": 4
+        },
+        "24:36:da:9d:3c:c0": {
+          "rssi": -44,
+          "num_samples": 2
+        }
+      }
+    }
+  ]
+}

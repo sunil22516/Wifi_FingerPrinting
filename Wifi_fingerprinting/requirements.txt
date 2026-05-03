@@ -1,0 +1,10 @@
+flask>=2.3.0
+flask-cors>=4.0.0
+numpy>=1.21.0
+
+# WiFi scanning – choose the right one for your OS:
+# Windows: pip install pywifi comtypes
+# Linux:   pip install pywifi
+# (netsh / nmcli fallback requires no extra packages)
+pywifi>=1.1.12   ; sys_platform == "win32" or sys_platform == "linux"
+comtypes>=1.2.0  ; sys_platform == "win32"
