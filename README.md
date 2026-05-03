@@ -301,4 +301,4 @@ python navigation/test_navigation.py
 
 ## License
 
-Academic project — IIIT Delhi, Spring 2026
+Academic project — IIIT Delhi, Wireless Networks 2026
