@@ -1,14 +1,53 @@
 {
-  "metadata": {
-    "floor": "4th Floor, R&D Building, IIIT Delhi",
-    "wing": "A + B Wing",
-    "coordinate_system": "meters from top-left corner (x=east, y=south)",
-    "building_width_m": 120,
-    "building_depth_m": 25,
-    "last_updated": "2026-05-03",
-    "notes": "Coordinates aligned to floor plan image; north rooms y=3, corridor y=8, labs y=13, discussion rooms y=19, lift near center."
+  "floor": "4th Floor - Academic Block",
+  "corridor": {
+    "type": "curved_main_corridor",
+    "width_m": 2.4,
+    "nodes_ordered_left_to_right": [
+      "FIRE_STAIR_LEFT",
+      "EXIT_LEFT",
+      "A-412","A-411","A-410","A-409","A-408","A-407","A-406","A-405","A-404","A-403","A-402","A-401",
+      "FIRE_STAIR_CENTER",
+      "OPEN_MEETING_AREA",
+      "FIRE_LIFT",
+      "A-421","A-422","A-423","A-424","A-425","A-426","A-427","A-428",
+      "FIRE_STAIR_RIGHT",
+      "EXIT_RIGHT"
+    ]
   },
-  "nodes": {
+  "bottom_rooms": [
+    "B-413","B-414","B-415","B-416","B-417","B-418","B-419",
+    "A-420",
+    "A-419","A-418","A-417","A-416","A-415","A-414","A-413"
+  ],
+  "vertical_connections": [
+    {"top":"A-412","bottom":"B-413"},
+    {"top":"A-411","bottom":"B-414"},
+    {"top":"A-410","bottom":"B-415"},
+    {"top":"A-409","bottom":"B-416"},
+    {"top":"A-408","bottom":"B-417"},
+    {"top":"A-407","bottom":"B-418"},
+    {"top":"A-406","bottom":"B-419"},
+    {"top":"OPEN_MEETING_AREA","bottom":"A-420"},
+    {"top":"A-421","bottom":"A-419"},
+    {"top":"A-422","bottom":"A-418"},
+    {"top":"A-423","bottom":"A-417"},
+    {"top":"A-424","bottom":"A-416"},
+    {"top":"A-425","bottom":"A-415"},
+    {"top":"A-426","bottom":"A-414"},
+    {"top":"A-427","bottom":"A-413"}
+  ],
+  "special_nodes": {
+    "toilets_left": ["GENTS_TOILET","LADIES_TOILET"],
+    "toilets_right": ["GENTS_TOILET","LADIES_TOILET"],
+    "electrical_rooms": ["EL-413","EL-414"],
+    "ahu_units": ["AHU-14A","AHU-14B"]
+  },
+  "you_are_here": {
+    "near": "FIRE_STAIR_CENTER",
+    "approx_between": ["A-402","A-401"]
+  }
+}
     "HALL_B401": {"x": 6.0, "y": 8.0, "label": "Corridor B-401", "type": "corridor"},
     "HALL_B402": {"x": 10.0, "y": 8.0, "label": "Corridor B-402", "type": "corridor"},
     "HALL_B403": {"x": 14.0, "y": 8.0, "label": "Corridor B-403", "type": "corridor"},
