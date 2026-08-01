@@ -9,11 +9,11 @@
 
 | Member | Role | Contribution |
 |--------|------|-------------|
-| **Mayank** | Data Collection | WiFi fingerprinting tool, radio map database, grid coordination |
-| **Tikam** | Localization | KNN algorithm, WiFi signal matching, position estimation |
+| **Sunil** | Data Collection | WiFi fingerprinting tool, radio map database, grid coordination |
+| **Sunil** | Localization | KNN algorithm, WiFi signal matching, position estimation |
 | **Sunil** | Navigation | A* pathfinding, floor graph, turn-by-turn directions |
-| **Tripti** | Frontend | Web UI, map rendering, user interaction, path visualization |
-| **Aviral** | Integration & Fusion | Sensor fusion (PDR), system integration, report |
+| **Sunil** | Frontend | Web UI, map rendering, user interaction, path visualization |
+| **sunil** | Integration & Fusion | Sensor fusion (PDR), system integration, report |
 
 ---
 
