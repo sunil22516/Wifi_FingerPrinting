@@ -7,13 +7,13 @@
 
 ## Team Members & Contributions
 
-| Member | Role | Contribution |
+|  | Role | Contribution |
 |--------|------|-------------|
-| **Sunil** | Data Collection | WiFi fingerprinting tool, radio map database, grid coordination |
-| **Sunil** | Localization | KNN algorithm, WiFi signal matching, position estimation |
-| **Sunil** | Navigation | A* pathfinding, floor graph, turn-by-turn directions |
-| **Sunil** | Frontend | Web UI, map rendering, user interaction, path visualization |
-| **sunil** | Integration & Fusion | Sensor fusion (PDR), system integration, report |
+|  | Data Collection | WiFi fingerprinting tool, radio map database, grid coordination |
+| | Localization | KNN algorithm, WiFi signal matching, position estimation |
+|  | Navigation | A* pathfinding, floor graph, turn-by-turn directions |
+|  | Frontend | Web UI, map rendering, user interaction, path visualization |
+|  | Integration & Fusion | Sensor fusion (PDR), system integration, report |
 
 ---
 
